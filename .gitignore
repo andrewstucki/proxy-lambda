@@ -1,0 +1,11 @@
+.aws-sam
+proxy-lambda
+request.json
+template.yml
+config.json
+build
+.terraform*
+planfile
+.DS_Store
+terraform.tfstate*
+terraform.tf
